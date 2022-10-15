@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @sravani
+- 👀 I’m interested in web development and Android 
+- 🌱 I’m currently learning problem solving using DSA, java, web development etc
+- 💞️ I love to blend my skills and creativity to create some real-world projects that can help the world in a huge way!
+
+
+
 <!--
 **34sravani-g/34sravani-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
