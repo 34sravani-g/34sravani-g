@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @sravani
+- 👋 Hi, I’m Sravani
 - 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning problem solving using DSA, java, web development etc
 - 💞️ I love to blend my skills and creativity to create some real-world projects that can help the world in a huge way!
